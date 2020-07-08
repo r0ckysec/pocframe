@@ -59,6 +59,21 @@ python3 pocframe.py -s * -iU target-url # 加载所有POC检测
 -eG  并发采用协程方式(默认)
 ```
 
+***实例***
+
+`python3 pocframe.py -h`
+
+![](https://github.com/r0ckysec/pocframe/blob/master/doc/img1.png)
+
+`python3 pocframe.py --show`
+
+![](https://github.com/r0ckysec/pocframe/blob/master/doc/img2.png)
+
+`python3 pocframe.py -s * -iU baidu.com`
+
+![](https://github.com/r0ckysec/pocframe/blob/master/doc/img3.png)
+
+
 # POC编写
 
 介绍已移至[wiki](https://github.com/r0ckysec/pocframe/wiki)
