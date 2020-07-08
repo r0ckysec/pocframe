@@ -63,6 +63,8 @@ python3 pocframe.py -s * -iU target-url # 加载所有POC检测
 
 介绍已移至[wiki](https://github.com/r0ckysec/pocframe/wiki)
 
+> 欢迎各位大表哥贡献POC，提交至 [POC库](https://github.com/r0ckysec/pocframe/tree/master/scripts) 
+
 # References
 
 - [POC-T](https://github.com/Xyntax/POC-T)
