@@ -22,7 +22,7 @@ Pocframe是在[Saucerframe](https://github.com/saucer-man/saucerframe)项目的�
 ```shell
 git clone https://github.com/r0ckysec/pocframe.git 
 cd pocframe
-pip install -r requirement.txt 
+pip3 install -r requirement.txt 
 ```
 
 使用方法：
